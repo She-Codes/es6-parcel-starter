@@ -1,3 +1,3 @@
 # es6-parcel-starter
 
-Uses Yarn
+Uses Yarn and Parcel
